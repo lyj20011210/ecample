@@ -16,6 +16,7 @@ def print_bye(name):
 if __name__ == '__main__':
     print_hi('lu')
     print_bye('lu')
+    print('caoxiangqian')
 #给你更新个东西,再更新个东西
 
 # 访问 https://www.jetbrains.com/help/pycharm/ 获取 PyCharm 帮助

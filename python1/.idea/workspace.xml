@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="46cf5d37-b6df-44ce-ac71-f2cca8627b93" name="变更" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +11,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/main.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -58,13 +60,14 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
-      <changelist id="85a5346c-f781-4066-9bb0-7d4d9e0310df" name="变更" comment="" />
+      <changelist id="46cf5d37-b6df-44ce-ac71-f2cca8627b93" name="变更" comment="" />
       <created>1651743719490</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651743719490</updated>
       <workItem from="1651743720990" duration="355000" />
       <workItem from="1651744385925" duration="77000" />
+      <workItem from="1651746780148" duration="1256000" />
     </task>
     <servers />
   </component>
